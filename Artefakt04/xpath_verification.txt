@@ -1,0 +1,4 @@
+PROJEKT SELEKTORA:
+ID: pick_address
+TAG: Button
+STATUS: ZALICZONE
